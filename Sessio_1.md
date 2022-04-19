@@ -67,6 +67,8 @@ def like_python():
 
 Torneu a executar l'aplicació i intenteu obrir l'URL corresponent a aquest nou missatge. Quina URL és? perquè?
 
+http://127.0.0.1:5000/python, ja que la ruta és "/python"
+
 Desenvolupament de la vostra primera API amb Flask
 ------------------------------------
 
